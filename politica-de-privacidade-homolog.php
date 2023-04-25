@@ -89,66 +89,62 @@
 </style>
 
 <div class="main">
-  <div class="page-privacy-policy">
-    <div class="policy-text">
-      <p>
-        A proteção à privacidade de Dados Pessoais é valor essencial para nós e por meio dessa Política de Privacidade explicamos como o GRUPO ALLOHA FIBRA, ou simplesmente ALLOHA, na qualidade de Controlador de Dados Pessoais, coleta, usa, compartilha ou de outra forma trata informações e Dados Pessoais de pessoas físicas, inclusive de clientes e de terceiros, para o desempenho de nossas atividades, incluindo pelos nossos Sites, Plataformas e Aplicativos. 
-      </p>
-
-      <p>
-        O uso de sites, plataformas e aplicativos ALLOHA pressupõe a aceitação deste acordo de privacidade. A equipe da ALLOHA reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.  
-      </p>
-
-      <p>
-        A garantia da confidencialidade dos dados pessoais dos usuários é importante para nós e tratada em concordância com a Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD). Aqui você também encontra informações sobre os seus direitos em relação aos seus Dados Pessoais, de acordo com a LGPD e demais legislações aplicáveis. 
-      </p>
-      
-      <p>
-        Todas as suas informações pessoais recolhidas, serão usadas para ajudar a tornar a sua visita em nossos sites, plataformas e aplicativos a mais produtiva e agradável possível. 
-      </p>
-    </div>
-
-    <div class="buttons-container">
-      <div class="button">
-        <a
-          target="_blank"
-          class="button-link"
-          href="https://canalconfidencial.com.br/lgpdalloha/"
-        >
-          Politica de privacidade
-        </a>
+    <div class="page-privacy-policy">
+      <div class="policy-text">
+        <p>
+          Seguindo todas as regras de confidencialidade da Lei Geral de Proteção de Dados – n° 13.709/2018 – compartilhamos aqui nossa Política de Privacidade, para assegurar a total transparência sobre como coletamos, armazenamos e usamos as informações pessoais contidas em nossos bancos de dados.
+        </p>
+  
+        <p>
+          Ao utilizar sites e aplicativos NIU, você aceita este acordo de privacidade.
+        </p>
+  
+        <p>
+          Mas não se preocupe, todas as informações pessoais recolhidas são usadas para aprimorar a experiência do usuário em nossas plataformas.
+        </p>
+        
+        <p>
+          E para estar sempre atualizado sobre os seus direitos em relação aos seus dados pessoais, recomendamos a consulta regular da nossa Política de Privacidade, que pode ser alterada sem aviso prévio.
+        </p>
       </div>
-
-      <div class="button">
-        <a
-          target="_blank"
-          class="button-link"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/Politica-de-Seguranca-da-Informacao_Site-NIU_compressed.pdf"
-        >
-          Segurança da informação
-        </a>
+  
+      <div class="buttons-container">
+        <div class="button">
+          <a
+            target="_blank"
+            href="https://canalconfidencial.com.br/lgpdalloha/"
+          >
+            Politica de privacidade
+          </a>
+        </div>
+  
+        <div class="button">
+          <a
+            target="_blank"
+            href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/Politica-de-Seguranca-da-Informacao_Site-NIU_compressed.pdf"
+          >
+            Segurança da informação
+          </a>
+        </div>
+  
+        <div class="button">
+          <a
+            target="_blank"
+            href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
+          >
+            Termos de uso
+          </a>
+        </div>
+  
+        <div class="button">
+          <a
+            target="_blank"
+            href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.18-I-NIU-I-Politica-de-Cookies_compressed.pdf"
+          >
+            Politica de cookies
+          </a>
+        </div>
+  
       </div>
-
-      <div class="button">
-        <a
-          target="_blank"
-          class="button-link"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
-        >
-          Termos de uso
-        </a>
-      </div>
-
-      <div class="button">
-        <a
-          target="_blank"
-          class="button-link"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.18-I-NIU-I-Politica-de-Cookies_compressed.pdf"
-        >
-          Politica de cookies
-        </a>
-      </div>
-
     </div>
   </div>
-</div>
