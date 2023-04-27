@@ -10,6 +10,8 @@ https://siteniu.niufibra.com.br/wp-admin/
 
 Deve-se pedir ao Marcos Lima (marcos.lima@vipbrtelecom.com) ou Cauê Santos (caue.santos@niufibra.com) por acessos.
 
+Documentação: https://ligue.atlassian.net/l/cp/dZ6sjXLF
+
 ## Estrutura do arquivo (politica-de-privacidade-homolog.php):
 
 1. Carregamento da webfont Quicksand
