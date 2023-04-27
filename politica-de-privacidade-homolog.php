@@ -1,6 +1,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap" rel="stylesheet">
 
 <style>
   :root {
@@ -23,6 +23,10 @@
     padding: 50px 10px;
   }
 
+   .section-heading h2:after {
+     top: 115%;
+   }
+
   .policy-text {
     color: var(--dark-gray);
     font-weight: 500;
@@ -32,6 +36,11 @@
 
   .policy-text p {
     margin-top: 14px;
+  }
+
+  .policy-text p a {
+    color: var(--dark-gray);
+    text-decoration: underline;
   }
 
   .buttons-container {
@@ -52,10 +61,9 @@
     text-transform: uppercase;
     transition: ease-in-out 500ms all;
   }
-
-  .button-link {
+  
+  .button a, .button a:hover, .button a:active, .button a:focus {
     color: var(--white);
-    text-decoration: none;
   }
 
   .button:hover {
@@ -76,13 +84,13 @@
 
   @media (min-width: 1440px) {
     .page-privacy-policy {
-      max-width: 1140px;
+      max-width: 1170px;
       margin-left: auto;
       margin-right: auto;
     }
 
     .buttons-container {
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(5, 1fr);
     }
   }
 
@@ -91,20 +99,31 @@
 <div class="main">
   <div class="page-privacy-policy">
     <div class="policy-text">
+	    <div class="section-heading text-center">
+        <h2>Políticas de Privacidade</h2>
+      </div>
+
       <p>
-        Seguindo todas as regras de confidencialidade da Lei Geral de Proteção de Dados – n° 13.709/2018 – compartilhamos aqui nossa Política de Privacidade, para assegurar a total transparência sobre como coletamos, armazenamos e usamos as informações pessoais contidas em nossos bancos de dados.
+        Aqui no Polo VIP (VIP/LIGUE/NIU), a Privacidade e a Proteção de Dados dos nossos clientes é uma prioridade.
       </p>
 
       <p>
-        Ao utilizar sites e aplicativos NIU, você aceita este acordo de privacidade.
+        Por este motivo e por observância à Lei Geral de Proteção de Dados – Lei n° 13.709/2018 (LGPD), compartilhamos nesta página as nossas <strong>Pítica de Privacidade, Política de Segurança da Informação</strong> e de <strong>Política de Cookies</strong>, bem como nossos <strong>Termos de Uso</strong> do aplicativo, para assegurar a total transparência sobre como coletamos, armazenamos e usamos as informações pessoais contidas em nossos bancos de dados.
       </p>
 
       <p>
-        Mas não se preocupe, todas as informações pessoais recolhidas são usadas para aprimorar a experiência do usuário em nossas plataformas.
+        Dessa maneira, ao acessar nossas plataformas ou ao utilizar nossos serviços, você está sujeito à nossas Políticas de Privacidade.
       </p>
       
       <p>
-        E para estar sempre atualizado sobre os seus direitos em relação aos seus dados pessoais, recomendamos a consulta regular da nossa Política de Privacidade, que pode ser alterada sem aviso prévio.
+        Em caso de dúvidas ou solicitação de direitos do titular, pedimos por gentileza que entre em contato conosco por meio do 
+        <a
+		  class="text-link"
+          href="https://canalconfidencial.com.br/lgpdalloha/"
+          target="_blank"
+        >
+          Portal de Privacidade
+        </a>.
       </p>
     </div>
 
@@ -115,6 +134,15 @@
           href="https://canalconfidencial.com.br/lgpdalloha/"
         >
           Políticade privacidade
+        </a>
+      </div>
+
+	  <div class="button">
+        <a
+          target="_blank"
+          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
+        >
+          Termos de uso
         </a>
       </div>
 
@@ -130,15 +158,6 @@
       <div class="button">
         <a
           target="_blank"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
-        >
-          Termos de uso
-        </a>
-      </div>
-
-      <div class="button">
-        <a
-          target="_blank"
           href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.18-I-NIU-I-Politica-de-Cookies_compressed.pdf"
         >
           Políticade cookies
@@ -148,9 +167,9 @@
       <div class="button">
         <a
           target="_blank"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.25-I-VIP-I-Formularios-I-Como-podemos-coletar-seus-dados-I-Marketing.pdf"
+          href=" https://canalconfidencial.com.br/lgpdalloha/"
         >
-          Uso de dados de formulários
+          Portal de Privacidade
         </a>
      </div>
 
