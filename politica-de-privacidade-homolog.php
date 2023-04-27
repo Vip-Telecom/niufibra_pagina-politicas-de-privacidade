@@ -89,62 +89,71 @@
 </style>
 
 <div class="main">
-    <div class="page-privacy-policy">
-      <div class="policy-text">
-        <p>
-          Seguindo todas as regras de confidencialidade da Lei Geral de Proteção de Dados – n° 13.709/2018 – compartilhamos aqui nossa Política de Privacidade, para assegurar a total transparência sobre como coletamos, armazenamos e usamos as informações pessoais contidas em nossos bancos de dados.
-        </p>
-  
-        <p>
-          Ao utilizar sites e aplicativos NIU, você aceita este acordo de privacidade.
-        </p>
-  
-        <p>
-          Mas não se preocupe, todas as informações pessoais recolhidas são usadas para aprimorar a experiência do usuário em nossas plataformas.
-        </p>
-        
-        <p>
-          E para estar sempre atualizado sobre os seus direitos em relação aos seus dados pessoais, recomendamos a consulta regular da nossa Política de Privacidade, que pode ser alterada sem aviso prévio.
-        </p>
+  <div class="page-privacy-policy">
+    <div class="policy-text">
+      <p>
+        Seguindo todas as regras de confidencialidade da Lei Geral de Proteção de Dados – n° 13.709/2018 – compartilhamos aqui nossa Política de Privacidade, para assegurar a total transparência sobre como coletamos, armazenamos e usamos as informações pessoais contidas em nossos bancos de dados.
+      </p>
+
+      <p>
+        Ao utilizar sites e aplicativos NIU, você aceita este acordo de privacidade.
+      </p>
+
+      <p>
+        Mas não se preocupe, todas as informações pessoais recolhidas são usadas para aprimorar a experiência do usuário em nossas plataformas.
+      </p>
+      
+      <p>
+        E para estar sempre atualizado sobre os seus direitos em relação aos seus dados pessoais, recomendamos a consulta regular da nossa Política de Privacidade, que pode ser alterada sem aviso prévio.
+      </p>
+    </div>
+
+    <div class="buttons-container">
+      <div class="button">
+        <a
+          target="_blank"
+          href="https://canalconfidencial.com.br/lgpdalloha/"
+        >
+          Políticade privacidade
+        </a>
       </div>
-  
-      <div class="buttons-container">
-        <div class="button">
-          <a
-            target="_blank"
-            href="https://canalconfidencial.com.br/lgpdalloha/"
-          >
-            Politica de privacidade
-          </a>
-        </div>
-  
-        <div class="button">
-          <a
-            target="_blank"
-            href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/Politica-de-Seguranca-da-Informacao_Site-NIU_compressed.pdf"
-          >
-            Segurança da informação
-          </a>
-        </div>
-  
-        <div class="button">
-          <a
-            target="_blank"
-            href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
-          >
-            Termos de uso
-          </a>
-        </div>
-  
-        <div class="button">
-          <a
-            target="_blank"
-            href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.18-I-NIU-I-Politica-de-Cookies_compressed.pdf"
-          >
-            Politica de cookies
-          </a>
-        </div>
-  
+
+      <div class="button">
+        <a
+          target="_blank"
+          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/Politica-de-Seguranca-da-Informacao_Site-NIU_compressed.pdf"
+        >
+          Segurança da informação
+        </a>
       </div>
+
+      <div class="button">
+        <a
+          target="_blank"
+          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
+        >
+          Termos de uso
+        </a>
+      </div>
+
+      <div class="button">
+        <a
+          target="_blank"
+          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.18-I-NIU-I-Politica-de-Cookies_compressed.pdf"
+        >
+          Políticade cookies
+        </a>
+      </div>
+
+      <div class="button">
+        <a
+          target="_blank"
+          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.25-I-VIP-I-Formularios-I-Como-podemos-coletar-seus-dados-I-Marketing.pdf"
+        >
+          Uso de dados de formulários
+        </a>
+     </div>
+
     </div>
   </div>
+</div>
