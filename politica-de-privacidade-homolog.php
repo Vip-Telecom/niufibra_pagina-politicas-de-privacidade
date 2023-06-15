@@ -23,9 +23,9 @@
     padding: 50px 10px;
   }
 
-   .section-heading h2:after {
-     top: 115%;
-   }
+  .section-heading h2:after {
+    top: 115%;
+  }
 
   .policy-text {
     color: var(--dark-gray);
@@ -46,7 +46,7 @@
   .buttons-container {
     display: grid;
   }
-  
+
   .button {
     align-items: center;
     background-color: var(--orange);
@@ -61,8 +61,11 @@
     text-transform: uppercase;
     transition: ease-in-out 500ms all;
   }
-  
-  .button a, .button a:hover, .button a:active, .button a:focus {
+
+  .button a,
+  .button a:hover,
+  .button a:active,
+  .button a:focus {
     color: var(--white);
   }
 
@@ -71,7 +74,7 @@
     cursor: pointer;
   }
 
-  @media (min-width: 768px){
+  @media (min-width: 768px) {
     .buttons-container {
       grid-template-columns: repeat(2, 1fr)
     }
@@ -93,13 +96,12 @@
       grid-template-columns: repeat(5, 1fr);
     }
   }
-
 </style>
 
 <div class="main">
   <div class="page-privacy-policy">
     <div class="policy-text">
-	    <div class="section-heading text-center">
+      <div class="section-heading text-center">
         <h2>Políticas de Privacidade</h2>
       </div>
 
@@ -114,65 +116,43 @@
       <p>
         Dessa maneira, ao acessar nossas plataformas ou ao utilizar nossos serviços, você está sujeito à nossas Políticas de Privacidade.
       </p>
-      
+
       <p>
-        Em caso de dúvidas ou solicitação de direitos do titular, pedimos por gentileza que entre em contato conosco por meio do 
-        <a
-		  class="text-link"
-          href="https://canalconfidencial.com.br/lgpdalloha/"
-          target="_blank"
-        >
-          Portal de Privacidade
-        </a>.
+        Em caso de dúvidas ou solicitação de direitos do titular, pedimos por gentileza que entre em contato conosco por meio do
+        <a class="text-link" href="https://canalconfidencial.com.br/lgpdalloha/" target="_blank">Portal de Privacidade</a>.
       </p>
     </div>
 
     <div class="buttons-container">
       <div class="button">
-        <a
-          target="_blank"
-          href="https://canalconfidencial.com.br/lgpdalloha/"
-        >
-          Políticade privacidade
-        </a>
-      </div>
-
-	  <div class="button">
-        <a
-          target="_blank"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.03-I-VIP-I-Termos-de-Uso-Site_compressed.pdf"
-        >
-          Termos de uso
+        <a target="_blank" href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/06/politica-de-privacidade-1683637517958-Politicas-de-Privacidade.pdf">
+          Política de Privacidade
         </a>
       </div>
 
       <div class="button">
-        <a
-          target="_blank"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/Politica-de-Seguranca-da-Informacao_Site-NIU_compressed.pdf"
-        >
-          Segurança da informação
+        <a target="_blank" href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/06/termos-de-uso-1683639804690-Politicas-de-Privacidade.pdf">
+          Termos de Uso
         </a>
       </div>
 
       <div class="button">
-        <a
-          target="_blank"
-          href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/04/2023.04.18-I-NIU-I-Politica-de-Cookies_compressed.pdf"
-        >
-          Políticade cookies
+        <a target="_blank" href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/06/Politica-de-Seguranca-da-Informacao_Site-NIU.pdf">
+          Segurança da Informação
         </a>
       </div>
 
       <div class="button">
-        <a
-          target="_blank"
-          href=" https://canalconfidencial.com.br/lgpdalloha/"
-        >
+        <a target="_blank" href="https://siteniu.niufibra.com.br/wp-content/uploads/2023/06/2023.05.05-I-NIU-I-Politica-de-Cookies.pdf">
+          Política de Cookies
+        </a>
+      </div>
+
+      <div class="button">
+        <a target="_blank" href=" https://canalconfidencial.com.br/lgpdalloha/">
           Portal de Privacidade
         </a>
-     </div>
-
+      </div>
     </div>
   </div>
 </div>
